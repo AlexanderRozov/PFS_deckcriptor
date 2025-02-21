@@ -1,2 +1,2 @@
-# PFS_deckcriptor
-.pfs file decryptor
+# PFS_decoding
+.pfs file decoding
